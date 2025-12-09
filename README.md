@@ -196,6 +196,3 @@ For questions, issues, or suggestions, please open an issue on GitHub or contact
 This database is provided for educational and research purposes. Users should verify data accuracy and source credibility before using insights for critical decision-making. Always consult official energy and climate organizations for authoritative data.
 
 ---
-
-**Last Updated**: December 2024  
-**Version**: 1.0.0
